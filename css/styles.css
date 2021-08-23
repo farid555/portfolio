@@ -100,12 +100,16 @@ a:hover {
   bottom: 300px;
 }
 .profile-image {
+ 
   width: 200px;
   height: 200px;
-  border-radius: 50%;
+  border-radius: 60%;
+  border: 2px solid #ABEBC6;
+  
 
   object-fit: cover;
-  object-position: center right;
+  object-position: center;
+  
 }
 
 .code-img {
